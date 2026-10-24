@@ -1,0 +1,36 @@
+# Generated dependencies, builds and caches
+**/node_modules/
+**/.next/
+**/dist/
+**/__pycache__/
+**/*.pyc
+**/*.tsbuildinfo
+**/next-env.d.ts
+
+# Raw or derived source data stays private unless separately cleared for release
+/.local/
+/raw-images/
+/raw-archives/
+/private-data/
+**/ocr-candidates.json
+**/workbook_input.json
+**/*_OCR_Review.xlsx
+**/*.jpg.json
+**/*.jpeg.json
+**/facebook_photo_index.csv
+**/ocr_price_candidates.csv
+
+# Configured credentials and accidental secrets
+**/.env
+**/.env.*
+!**/.env.example
+**/.dev.vars*
+**/cookies.txt
+**/cookies.sqlite
+**/*.pem
+**/*.key
+
+# Operating system and logs
+.DS_Store
+Thumbs.db
+*.log
