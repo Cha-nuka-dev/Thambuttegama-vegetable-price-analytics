@@ -1,5 +1,12 @@
 # Thambuttegama Vegetable Price Analytics
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![CI](https://github.com/Cha-nuka-dev/Thambuttegama-vegetable-price-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/Cha-nuka-dev/Thambuttegama-vegetable-price-analytics/actions/workflows/ci.yml)
+
+**[View the live research dashboard](https://thambuttegama-crop-prices-chanuka.elatedbay34.chatgpt.site)** · [Source code](dashboard/) · [Methodology](docs/methodology.md)
+
+> The live research dashboard is separate from this public synthetic-data demo and may require authorized access.
+
+
 An OCR-assisted vegetable price research project for Thambuttegama Dedicated Economic Centre, Sri Lanka. It combines a Sinhala price-list extraction pipeline, interactive multi-year charts, and an exploratory monthly price estimator.
 
 > [!IMPORTANT]
@@ -20,6 +27,15 @@ The original private research Site, which is separate from this standalone GitHu
 https://thambuttegama-crop-prices-chanuka.elatedbay34.chatgpt.site
 
 The original Site contains the owner's unverified OCR archive and may require an authorized account. This repository deliberately does **not** redistribute that archive, authentication code, private databases, or photo downloads.
+
+## Screenshots
+
+Screenshots of the **synthetic demo** will be added here. Run the dashboard locally, capture the main multi-year chart and seasonal estimator, and place the images in `docs/screenshots/` as `dashboard.png` and `forecast.png`.
+
+<!-- After uploading screenshots, uncomment these lines:
+![Multi-year price comparison](docs/screenshots/dashboard.png)
+![Seasonal price estimator](docs/screenshots/forecast.png)
+-->
 
 ## Quick start: interactive dashboard
 
@@ -103,4 +119,4 @@ Project initiated by **Chanuka Jayasooriya**. Source attribution: Thambuttegama 
 
 ## License
 
-No license has been selected yet for the original project code. GitHub public visibility does not itself grant reuse permission. Choose and add an appropriate `LICENSE` file before advertising this repository as open source. Dependencies are licensed separately.
+The original project code is released under the [MIT License](LICENSE), copyright (c) 2026 Chanuka Jayasooriya. Third-party dependencies retain their own licenses. The license does not grant rights to third-party Facebook images or their underlying content.
