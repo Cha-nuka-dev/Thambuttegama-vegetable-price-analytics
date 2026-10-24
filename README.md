@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![CI](https://github.com/Cha-nuka-dev/Thambuttegama-vegetable-price-analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/Cha-nuka-dev/Thambuttegama-vegetable-price-analytics/actions/workflows/ci.yml)
 
-**[View the live research dashboard](https://thambuttegama-crop-prices-chanuka.elatedbay34.chatgpt.site)** · [Source code](dashboard/) · [Methodology](docs/methodology.md)
+**[View the live research dashboard](https://cropprices.chanukajayasooriya.me/)** · [Source code](dashboard/) · [Methodology](docs/methodology.md)
 
 > The live research dashboard is separate from this public synthetic-data demo and may require authorized access.
 
